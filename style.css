@@ -33,9 +33,11 @@ h1 {
 
 
   head {
+    padding: 4%;
     width: 1440px;
     height: 176px;
     flex-shrink: 0;
     background: #5B773F;
 
   }
+  
