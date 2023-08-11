@@ -1,4 +1,19 @@
 body{
+    width: 1450px;
+    height: 888px;
+    flex-shrink: 0;
     color: #6F3F77;
 
+}
+
+article{
+    width: 445px;
+    height: 837px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
 }
