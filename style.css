@@ -27,10 +27,21 @@ section {
 }
 
 h1 {
-    color: rgb(192, 22, 22);
-    text-align: center;
+    color: #FFF;
+font-family: Irish Grover;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
   }
-
+  h2 {
+    color: #FFF;
+font-family: Irish Grover;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
 
   head {
     padding: 4%;
