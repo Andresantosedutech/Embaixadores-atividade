@@ -7,10 +7,7 @@ body{
 }
 
 article{
-    width: 445px;
-    height: 837px;
-    flex-shrink: 0;
-    color: #ac1c1c;
+    color: #FFF;
     font-family: Inter;
     font-size: 16px;
     font-style: italic;
