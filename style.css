@@ -27,6 +27,15 @@ section {
 }
 
 h1 {
-    color: white;
+    color: rgb(192, 22, 22);
     text-align: center;
+  }
+
+
+  head {
+    width: 1440px;
+    height: 176px;
+    flex-shrink: 0;
+    background: #5B773F;
+
   }
