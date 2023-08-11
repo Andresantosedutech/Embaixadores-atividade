@@ -17,3 +17,11 @@ article{
     font-weight: 400;
     line-height: normal;
 }
+
+section {
+    width: 1440px;
+    height: 176px;
+    flex-shrink: 0;
+    background: #5B773F;
+
+}
