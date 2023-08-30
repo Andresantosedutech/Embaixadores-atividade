@@ -58,7 +58,7 @@ text-align: right;
 
   .cabeçalho {
     padding: 4%;
-    width: 200px;
+    width: 100px;
     height: 200px;
     flex-shrink: 0;
     background: #5B773F;
