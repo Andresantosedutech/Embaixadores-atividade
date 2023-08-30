@@ -59,9 +59,13 @@ text-align: right;
   .cabeçalho {
     padding: 4%;
     width: 100%;
-    height: 400px;
+    height: 200px;
     flex-shrink: 0;
     background: #5B773F;
 
   }
-  
+  .imagemcabeçalho{ 
+    display: flex;
+    height: 150px;
+    width: auto;
+  }
